@@ -1,0 +1,11 @@
+{
+  "name": "milestone-based-assignments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Majid",
+  "license": "ISC",
+  "description": "This is an Static resume using html , css and typescript."
+}
